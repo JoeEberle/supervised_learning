@@ -1,0 +1,28 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-04-27 22:19:07,571 - INFO - START supervised_learning =============================================
+2024-04-27 22:19:07,571 - INFO - START supervised_learning Start Time = 2024-04-27 22:19:07
+2024-04-27 22:19:07,571 - INFO - supervised_learning Step 0 - Initialize the configuration file parser
+2024-04-27 22:19:07,571 - INFO - Process supervised_learning Step 0 - Initializing and starting Logging Process.
+2024-04-27 22:19:07,601 - INFO - PERFORMANCE supervised_learning The total process duration was:0.03
+2024-04-27 22:19:07,601 - INFO - PERFORMANCE supervised_learning Stop Time = 2024-04-27 22:19:07
+2024-04-27 22:19:07,601 - INFO - PERFORMANCE supervised_learning Short process duration less than 3 Seconds:0.03
+2024-04-27 22:19:07,602 - INFO - PERFORMANCE supervised_learning Performance optimization is not reccomended
+2024-04-27 22:19:07,602 - INFO - END supervised_learning =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-04-27 22:42:18,660 - INFO - START supervised_learning =============================================
+2024-04-27 22:42:18,660 - INFO - START supervised_learning Start Time = 2024-04-27 22:42:18
+2024-04-27 22:42:18,660 - INFO - supervised_learning Step 0 - Initialize the configuration file parser
+2024-04-27 22:42:18,660 - INFO - Process supervised_learning Step 0 - Initializing and starting Logging Process.
+2024-04-27 22:42:19,334 - INFO - PERFORMANCE supervised_learning The total process duration was:0.68
+2024-04-27 22:42:19,334 - INFO - PERFORMANCE supervised_learning Stop Time = 2024-04-27 22:42:19
+2024-04-27 22:42:19,334 - INFO - PERFORMANCE supervised_learning Short process duration less than 3 Seconds:0.68
+2024-04-27 22:42:19,334 - INFO - PERFORMANCE supervised_learning Performance optimization is not reccomended
+2024-04-27 22:42:19,335 - INFO - END supervised_learning =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
