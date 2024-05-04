@@ -36,4 +36,4 @@ To get started with the **Supervised Learning ** solution repository, follow the
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](brand_2.png)  <br>![additional_image](DNA_Strand.png)  <br>![additional_image](population_health.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](supervised_learning.png)  <br>
+    ## Deliverables or Figures![additional_image](brand_2.png)  <br>![additional_image](DNA_Strand.png)  <br>![additional_image](population_health.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](supervised_learning.png)  <br>
