@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Supervised Learning  - A very tiny example of supervised learning. 
 A very tiny example of supervised learning. 
 
@@ -7,8 +9,6 @@ A very tiny example of supervised learning.
 **Supervised learning** is the type of machine learning where the training data consists of features and labels.  The objective is to be able to learn to be able to predict the label based upon a set of features.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
