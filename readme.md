@@ -10,6 +10,13 @@ A very tiny example of supervised learning.
 
 ![Image image_filename](sample.png)
 
+## Getting Started
+To get started with the **Supervised Learning ** solution repository, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed at the top of the notebook.
+3. Explore the example code provided in the repository and experiment.
+4. Run the notebook and make it your own - **EASY !**
+    
 ## Solution Features
 - Easy to understand and use  
 - Easily Configurable 
@@ -26,12 +33,8 @@ A very tiny example of supervised learning.
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Getting Started
-To get started with the **Supervised Learning ** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
+## Deliverables or Figures
+ ![additional_image](brand_2.png)  <br>![additional_image](DNA_Strand.png)  <br>![additional_image](population_health.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](supervised_learning.png)  <br>
     
 
 ## Github    
@@ -44,7 +47,4 @@ To get started with the **Supervised Learning ** solution repository, follow the
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    
-## Deliverables or Figures
- ![additional_image](brand_2.png)  <br>![additional_image](DNA_Strand.png)  <br>![additional_image](population_health.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](supervised_learning.png)  <br>
     
