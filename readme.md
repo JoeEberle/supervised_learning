@@ -37,11 +37,8 @@ To get started with the **Supervised Learning ** solution repository, follow the
  ![additional_image](brand_2.png)  <br>![additional_image](DNA_Strand.png)  <br>![additional_image](population_health.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](supervised_learning.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
