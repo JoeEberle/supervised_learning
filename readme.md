@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Supervised Learning  
-    ## A very tiny example of supervised learning. 
+    
+# Supervised Learning  
+
+## A very tiny example of supervised learning. 
+
     ![Image image_filename](code.png)
 **Supervised learning** is the type of machine learning where the training data consists of features and labels.  The objective is to be able to learn to be able to predict the label based upon a set of features.
 ![Image image_filename](code.png)![Image image_filename](sample.png)
@@ -23,9 +26,9 @@ To get started with the **Supervised Learning ** solution repository, follow the
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Supervised Learning ** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -35,6 +38,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](brand_2.png)  <br>![additional_image](DNA_Strand.png)  <br>![additional_image](population_health.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](supervised_learning.png)  <br>
