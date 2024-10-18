@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Supervised Learning  - A very tiny example of supervised learning. ![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Supervised Learning  
+    ## A very tiny example of supervised learning. 
+    ![Image image_filename](code.png)
 **Supervised learning** is the type of machine learning where the training data consists of features and labels.  The objective is to be able to learn to be able to predict the label based upon a set of features.
 ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
@@ -10,12 +13,15 @@ To get started with the **Supervised Learning ** solution repository, follow the
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
