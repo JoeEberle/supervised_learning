@@ -49,13 +49,3 @@ To get started with the **Supervised Learning ** solution repository, follow the
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](brand_2.png)  <br>![additional_image](DNA_Strand.png)  <br>![additional_image](population_health.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](supervised_learning.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
